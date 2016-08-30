@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/mPlay"
+        android:icon="@mipmap/ic_play_arrow_black_48dp"
+        app:showAsAction="ifRoom"
+        android:title="Play">
+    </item>
+
+    <item
+        android:id="@+id/madd"
+        android:title="加入提示"
+        app:showAsAction="never" />
+</menu>
+
